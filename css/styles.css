@@ -32,7 +32,7 @@ header {
 }
 
 .header-item {
-  float: right;
+  float: left;
   padding: 10px;
 }
 
